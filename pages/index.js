@@ -65,7 +65,7 @@
 // }
 import Link from 'next/link';
 
-const NOTION_BLOG_ID = '7dfb352f5149425f8f0e8f5a9254df2a';
+const NOTION_BLOG_ID = '1099525da7e5405c961706de56622ccd';
 
 export const getAllPosts = async () => {
   return await fetch(
